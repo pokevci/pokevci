@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pokevci" alt="pokevci" /></a> </p>
 
-- 🔭 I’m currently working on [Duet, a open source homework helper using AI](https://github.com/pokevci/Duet)
+- 🔭 I’m currently working on [Duet, a open source homework helper using AI](https://duetai.vercel.app/)
 
 - 🌱 I’m currently learning **Java19, C++ and python🐍**
 
