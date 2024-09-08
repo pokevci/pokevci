@@ -15,7 +15,7 @@
 
 - ⚡ Fun fact **I am a passionate public speaker**
 
-- - 👨‍💻 All of my projects are available at [https://yiming-portfolio-u33m.vercel.app](https://yiming-portfolio-u33m.vercel.app)
+- 👨‍💻 All of my projects are available at [https://yiming-portfolio-u33m.vercel.app](https://yiming-portfolio-u33m.vercel.app)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
