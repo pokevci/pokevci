@@ -1,8 +1,11 @@
 <h1 align="center">Hi. I'm Yiming</h1>
 <h3 align="center">A passionate Frontend web and Java developer</h3>
 <p align="center">
-  <a href="https://github.com/Sasutski/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Public+Speaker;Enthusiastic student;Freelancer;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg" target="_blank">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Public+Speaker;Enthusiastic+Student;Freelancer;DS%20%7C%20AI%20%7C%20ML+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
+  </a>
 </p>
+
 
 [![](https://visitcount.itsvg.in/api?id=pokevci&icon=0&color=10)](https://visitcount.itsvg.in)
 
