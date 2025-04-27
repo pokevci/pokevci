@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Frontend web and Java developer</h3>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg" target="_blank">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Public+Speaker;Enthusiastic+Student;Freelancer;DS%20%7C%20AI%20%7C%20ML+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Public+Speaker;Enthusiastic+Student;Freelancer;Always+Learning+New+Things" alt="Typing SVG" />
   </a>
 </p>
 
